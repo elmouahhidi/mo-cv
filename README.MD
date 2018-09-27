@@ -1,0 +1,1 @@
+This project is to practice HTML, CSS3 and a bit of jQuery. In addition, the built web site is responsive.
